@@ -1,6 +1,5 @@
-package com.laokamo.concurrency.singleton;
+package com.laokamo.concurrency.example.singleton;
 
-import com.laokamo.concurrency.annoations.NotThreadSafe;
 import com.laokamo.concurrency.annoations.ThreadSafe;
 
 /**

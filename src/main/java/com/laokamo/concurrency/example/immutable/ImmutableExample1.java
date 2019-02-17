@@ -1,4 +1,4 @@
-package com.laokamo.concurrency.immutable;
+package com.laokamo.concurrency.example.immutable;
 
 import com.google.common.collect.Maps;
 import com.laokamo.concurrency.annoations.NotThreadSafe;

@@ -1,4 +1,4 @@
-package com.laokamo.concurrency.immutable;
+package com.laokamo.concurrency.example.immutable;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;

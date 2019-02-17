@@ -1,4 +1,4 @@
-package com.laokamo.concurrency.publish;
+package com.laokamo.concurrency.example.publish;
 
 import com.laokamo.concurrency.annoations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
